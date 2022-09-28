@@ -11,6 +11,7 @@
     <li><a href="https://resplendent-syrniki-f643de.netlify.app/">VIO 202 Delivarble 3</a></li>
     <li>IMY 220 Project</li>
 </ul>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carldewitt&label=Profile%20views&color=0e75b6&style=flat" alt="carldewitt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carldewitt" alt="carldewitt" /></a> </p>
