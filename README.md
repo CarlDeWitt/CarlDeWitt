@@ -10,6 +10,8 @@
     <li>COS 226 Website</li>
     <li><a href="https://resplendent-syrniki-f643de.netlify.app/">VIO 202 Delivarble 3</a></li>
     <li>IMY 220 Project</li>
+    <li><a href="https://github.com/CarlDeWitt/Tuks2022/tree/main/COS%20212">Data structures and algorithms</a></li>
+    <li><a href="https://github.com/CarlDeWitt/Tuks2022/tree/main/IMY%20210">All XML </a></li>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carldewitt&label=Profile%20views&color=0e75b6&style=flat" alt="carldewitt" /> </p>
