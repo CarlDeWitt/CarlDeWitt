@@ -5,12 +5,12 @@
 
 <p>Projects</p>
 <ul>
+    <li><a href="https://github.com/CarlDeWitt/Tuks2022/tree/main/IMY220/Project/Files">IMY 220 Project</a></li>  
     <li><a href="https://github.com/CarlDeWitt/Tuks2022/tree/main/COS%20212">Data structures and algorithms</a></li>
     <li><a href="https://github.com/CarlDeWitt/Tuks2022/tree/main/IMY%20210">All XML </a></li>
     <li><a href="https://lively-strudel-6aa6fa.netlify.app/">IMY 110 Website</a></li>
     <li><a href="https://github.com/CarlDeWitt/projects/tree/main/files/amicus">Amicis  Design</a></li>
-    <li><a href="https://resplendent-syrniki-f643de.netlify.app/">VIO 202 Delivarble 3</a></li>
-    <li><a href="https://github.com/CarlDeWitt/Tuks2022/tree/main/IMY220/Project/Files">IMY 220 Project</a></li>    
+    <li><a href="https://resplendent-syrniki-f643de.netlify.app/">VIO 202 Delivarble 3</a></li>  
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carldewitt&label=Profile%20views&color=0e75b6&style=flat" alt="carldewitt" /> </p>
