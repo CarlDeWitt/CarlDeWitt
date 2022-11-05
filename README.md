@@ -19,9 +19,9 @@
 
 - 📞 Mobile Number: 076 439 3282
 
-- 🔭 I’m currently working on **IMY 220 project**
+- 🔭 I’m currently working on **My Multiplayer shooter Game**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Unreal Engine 5**
 
 - 💬 Ask me about **JS, JAVA**
 
